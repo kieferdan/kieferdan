@@ -1,4 +1,4 @@
-# Olá! Eu sou Daniel Mota! 
+# Olá! Eu sou Daniel Mota
 
 <div align="center">
   <a href="https://github.com/kieferdan">
