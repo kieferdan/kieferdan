@@ -32,9 +32,8 @@
 </div>
 
 <p align="center">
-  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kieferdan&layout=compact&theme=react&line_height=27&bg_color=DEG,555555,9e7d57" style="max-width:100%;"></br>
     <a href="https://github.com/kieferdan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kieferdan&layout=compact&theme=react&line_height=27&bg_color=DEG,555555,9e7d57" style="max-width:100%;"></br>
     <img height="180em" alt="kieferdan stats" src="https://github-readme-stats.vercel.app/api?username=kieferdan&show_icons=true&bg_color=DEG,555555,9e7d57&theme=react" style="max-width:100%;">
   </a>
 </p>
