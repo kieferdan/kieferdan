@@ -11,8 +11,5 @@
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"><addr>
 <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kieferdan&show_icons=true&hide=contribs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<addr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kieferdan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
   
